@@ -5,7 +5,11 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
+<<<<<<< HEAD
     "start": "next start"
+=======
+    "lint": "eslint"
+>>>>>>> temp-fix
   },
   "dependencies": {
     "react": "19.1.0",
