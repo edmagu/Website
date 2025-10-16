@@ -5,8 +5,12 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
+<<<<<<< HEAD
     "start": "next start",
     "lint": "eslint"
+=======
+    "start": "next start"
+>>>>>>> ab361b8 (Initial commit from Create Next App)
   },
   "dependencies": {
     "react": "19.1.0",
@@ -19,9 +23,13 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@tailwindcss/postcss": "^4",
+<<<<<<< HEAD
     "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
     "@eslint/eslintrc": "^3"
+=======
+    "tailwindcss": "^4"
+>>>>>>> ab361b8 (Initial commit from Create Next App)
   }
 }
